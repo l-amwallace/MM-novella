@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="C1C36D45-BFE2-4974-A4A1-693E38B3C343" Version="2.0" Creator="SCRMAC-3.3.6-16305" Device="Mac" Author="Lee-Ann Wallace" Modified="2024-11-16 15:30:22 +1000" ModID="3B21197E-759E-40A2-B15A-ECFDBBA2CF7B">
+    <Binder>
+        <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="36181B4E-07DE-4BF9-A08F-288CEBF0099A" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Romance Planning</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Red Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="316916A6-06E0-46F0-86D5-6B1B17C8721B" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>75,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="24EDE914-5A46-416C-AC8B-9E32D68651B5" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 2: Character 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,69</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="03030C11-3E6D-48E9-8898-1EFA7695C4E4" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 3: Character 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,70</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="72C182E0-8890-4419-854F-DB4C8AF0A4E1" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>174,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F350F3FC-DA58-4ACC-A53A-56C8B7B524A1" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,246</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="86EDF4D3-702B-45B9-9630-EB3463304A32" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 6</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,99</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8CBC5653-CD71-479E-A947-D9031F9B6F1F" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 7: Meet Cute</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,388</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="209204FC-E926-4AD1-8973-0D11B186A35B" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 8: External Story</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,59</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="013BFD23-7CA9-4A9F-9465-E41D9EF87661" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 9: Side Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,56</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E1655C50-A0A3-444C-BCFA-FD8B8475178A" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 10: Relationship 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,329</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="278328D5-828B-44CA-9460-FC0F05F83EA6" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 11: Relationship 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,340</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3C6F6AF3-E55B-4F77-9964-C68C0CF44001" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Step 12: After Love</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>120,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Manuscript</Title>
+            <Children>
+                <BinderItem UUID="58B7335B-2729-45CD-B59A-40A8678E8FAB" Type="Text" Created="2024-11-14 17:28:27 +1000" Modified="2024-11-15 19:04:25 +1000">
+                    <Title>Ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1945,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B0B9C92D-1F2E-4AC2-A606-A8DBF908F0BC" Type="Folder" Created="2024-11-14 19:07:55 +1000" Modified="2024-11-14 19:08:04 +1000">
+                    <Title>Act 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FD75AC3C-F304-4EA6-ADCC-2C32D6589969" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>1A: Normal World</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="A06139E9-75EF-43AE-9271-00E7F854F815"/>
+                            </Bookmarks>
+                            <Children>
+                                <BinderItem UUID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-16 15:30:11 +1000">
+                                    <Title>Scene Ideas</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C9624B03-1449-4A56-A889-25345F6BCC5D" Type="Text" Created="2024-11-14 19:09:52 +1000" Modified="2024-11-14 19:09:52 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="FCE9BE52-049B-440C-BC1A-057D83831EB0" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>1B: EVERYTHING CHANGES</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="60D96DB5-A6FF-4A3A-B711-7C183695F8D8" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-1</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="34AA36CA-1B04-47EC-A79E-A3EC5AA4F529" Type="Text" Created="2024-11-14 19:09:56 +1000" Modified="2024-11-14 19:09:56 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="6E2DBFE5-76BD-4E5A-9444-216B52FCA272" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>1C: MAKING EXCUSES + A NEW EXTERNAL GOAL</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1D496BE6-EEDC-445F-9463-9C51AC74D383" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-2</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="2BEEB0D8-8475-444F-8EAB-B7312BB7DC23" Type="Text" Created="2024-11-14 19:10:00 +1000" Modified="2024-11-14 19:10:00 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="6FD5340C-B780-46E9-8144-267A0DC658A8" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>1D: THEY CAN’T AVOID EACH OTHER</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A2F85604-241C-4CB0-888C-96C77FC54073" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-3</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="090AD685-3B7C-4E7F-8E41-A027D649E817" Type="Text" Created="2024-11-14 19:10:04 +1000" Modified="2024-11-14 19:10:04 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="C1D6452C-ED63-4E9C-ABF9-028FF70CD2DD" Type="Folder" Created="2024-11-14 19:07:55 +1000" Modified="2024-11-14 19:08:25 +1000">
+                    <Title>Act 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A06139E9-75EF-43AE-9271-00E7F854F815" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>2A: NEW WORLD, OLD PROBLEMS</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="57397F1F-7B68-4CEB-9FEE-B5A6C09BB47E"/>
+                            </Bookmarks>
+                            <Children>
+                                <BinderItem UUID="DD5401A0-83C3-4A24-9F5F-C028466B953E" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-4</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="369B39D0-B39D-4508-9A11-892FD7797671" Type="Text" Created="2024-11-14 19:10:43 +1000" Modified="2024-11-14 19:10:43 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="29B72BA6-EE6B-40FA-8116-59D775FE1702" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>2B: EVEN MORE EXCUSES</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="4463DF50-2F53-4645-86AD-5951D0F790C4" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-5</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B0705315-F59E-47FF-9087-31AC27EE5550" Type="Text" Created="2024-11-14 19:10:47 +1000" Modified="2024-11-14 19:10:47 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="04DCB718-D44B-4BD5-ABAE-0EB6F2941555" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>2C: WHAT IF + DABBLING IN LOVE</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="FCD2C758-A214-4EAF-A614-3F73FFEE2336" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-1</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F49B51EB-FA89-474D-ADF3-CDB62A46D6A9" Type="Text" Created="2024-11-14 19:10:50 +1000" Modified="2024-11-14 19:10:50 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="4FF08460-0BFC-41C2-85A1-4C2712B612DB" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>2D: DRAMATIC EVENT AT MIDPOINT</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A8C9886E-2FD2-478A-BB05-09CA16EC2B3F" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-5</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="813EC419-9402-409B-8F33-1EDF5D69FCD5" Type="Text" Created="2024-11-14 19:10:53 +1000" Modified="2024-11-14 19:10:53 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A319D665-C017-40EE-8F79-568D2D1C2E99" Type="Folder" Created="2024-11-14 19:07:56 +1000" Modified="2024-11-14 19:08:29 +1000">
+                    <Title>Act 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B425FBFC-5787-4AB1-A985-A7711383C291" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>3A: PULLING AWAY</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E520AAC7-C4E8-4717-890B-458CBAE8424E" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-4</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A95195A2-82A3-4929-BE1A-25A3CF41D66A" Type="Text" Created="2024-11-14 19:11:08 +1000" Modified="2024-11-14 19:11:08 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="038216C0-653E-45D4-9588-72E8D19C4001" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>3B: RETREAT FROM EACH OTHER</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="CC115184-3005-483F-B737-F02AE5647FC5" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-3</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="26798639-E6D5-4807-A20B-761F987321C2" Type="Text" Created="2024-11-14 19:11:11 +1000" Modified="2024-11-14 19:11:11 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="68393C55-1718-4F87-9739-68D21440722D" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>3C: DISASTER STRIKES</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="CC8C2F0B-FE9F-4D2A-978B-1E60C4E207D3" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-2</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="87079896-C77A-4F59-B7A8-B1A5DE80F555" Type="Text" Created="2024-11-14 19:11:14 +1000" Modified="2024-11-14 19:11:14 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6ABCCB49-DA8E-43BA-898C-BDE463E3FF4F" Type="Folder" Created="2024-11-14 19:07:56 +1000" Modified="2024-11-14 19:08:34 +1000">
+                    <Title>Act 4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="57397F1F-7B68-4CEB-9FEE-B5A6C09BB47E" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>4A: THE CONSEQUENCES + THE REALISATION</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="C3DD5FDF-6492-4118-B093-103CBFE667E5" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-1</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="71256C77-16AF-458D-B178-A8B6A3D8CA19" Type="Text" Created="2024-11-14 19:11:18 +1000" Modified="2024-11-14 19:11:18 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="B41A9FB5-9246-45C1-86E0-CED4A5691BFC" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>4B: THE LAST PUSH</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="6554A374-B349-4B01-8097-B5C6684F4B45" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-2</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="789B21D2-C16A-4036-B2B4-802A3E0BDAA9" Type="Text" Created="2024-11-14 19:11:21 +1000" Modified="2024-11-14 19:11:21 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="6C55DF2B-C9B9-48A1-942A-F50FCC864463" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>4C: CLOSING IMAGE AND THE NEW NORMAL</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0CAE3DB8-9CCD-40D3-B28A-00A887804EA3" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 19:06:05 +1000">
+                                    <Title>Scene Ideas-3</Title>
+                                    <MetaData>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E8341562-135E-4667-B53F-24771585CAEA" Type="Text" Created="2024-11-14 19:11:24 +1000" Modified="2024-11-14 19:11:24 +1000">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>BE948F87-BDA3-4551-8E08-AC248FE89301</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="63871E7A-06BA-4C7F-86CC-BA54A4DEEA11" Type="Text" Created="2024-11-16 15:30:17 +1000" Modified="2024-11-16 15:30:17 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="213AC5C2-0432-4F69-8923-EF514F988F90" Type="Text" Created="2024-11-16 15:30:18 +1000" Modified="2024-11-16 15:30:18 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F666A85A-6555-4308-90D4-5A14D2321BE5" Type="Text" Created="2024-11-16 15:30:19 +1000" Modified="2024-11-16 15:30:19 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8CAD2FFA-757B-4353-A668-78A0A7428CE2" Type="Text" Created="2024-11-16 15:30:19 +1000" Modified="2024-11-16 15:30:19 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B7C4EA0B-B00D-4C4D-BF9C-333920C796A4" Type="Text" Created="2024-11-16 15:30:20 +1000" Modified="2024-11-16 15:30:20 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>87D59B4E-F1D6-4025-9FBA-33F60ED8F985</DefaultChildTemplateUUID>
+        </BinderItem>
+        <BinderItem UUID="57ECC98D-8199-4935-B5F1-D1F7A2D60646" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <SectionType ChildDefault="F3D99402-96E3-4558-A2BE-FB83286017C8"></SectionType>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>26,0</NotesTextSelection>
+                <IconFileName>Front Matter</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="684ADA52-4D45-48D2-B03D-5ECB784963EE" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>118,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4D01D8EC-C1C3-427E-88C0-602D9158FC95" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Paperback</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="486D874A-7589-4C1E-BECE-40B465746BA1" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="21506607-96CA-4FB1-8B5F-A1859F4DCEDE" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>82,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="874592F5-2256-46A1-8434-432743846FB8" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11,23</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EAED9F93-2779-4184-82E8-30D27307C6AC" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>197,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,13</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4C4363AD-1F58-4140-A55F-DEE1298CA1C4" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Ebook</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C88ACCC3-4FDB-4952-80E1-177623CDE141" Type="Image" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>png</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="98EA5CEF-B7B1-468C-83CD-9AB24AFAFDF3" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5,21</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Research</Title>
+            <Children>
+                <BinderItem UUID="9A470BDE-CF2B-4872-97C6-74F19BC90197" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A01D76FD-6D6D-4A05-B3D7-72013BF9A630" Type="PDF" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem UUID="96044A4A-0A94-45BF-888E-01E9664985FF" Type="PDF" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6BDB6324-1F14-4D67-B902-029321A79328" Type="Image" Created="2024-11-15 16:15:27 +1000" Modified="2024-11-15 16:15:27 +1000">
+                    <Title>Nov-12_Blood-type-OC_1200px</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="5C03DE09-C285-48ED-827F-78E62B7D0F72" Type="Folder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="BE948F87-BDA3-4551-8E08-AC248FE89301" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="87D59B4E-F1D6-4025-9FBA-33F60ED8F985" Type="Text" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2024-11-14 17:08:26 +1000" Modified="2024-11-14 17:08:26 +1000">
+            <Title>Trash</Title>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.015924 0.126521 0.159696">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.084464 0.183137 0.21437">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">Part Heading</Type>
+            <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">Chapter Heading</Type>
+            <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">Scene</Type>
+            <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">Chapter</Type>
+            <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">Heading</Type>
+            <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">Section</Type>
+            <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">Front Matter</Type>
+            <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">Table of Contents</Type>
+            <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EA9C9DBA-B644-4EBB-BDAD-621E5455275A</Type>
+                <Type>417A6CCE-D4E1-44BA-9A8D-038360B4B905</Type>
+            </Folders>
+            <Containers>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+            </Containers>
+            <Files>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="7" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="8" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="9" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="10" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="11" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="12" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="6">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectBookmarks>
+        <Bookmark BinderUUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5"/>
+        <Bookmark BinderUUID="6830B6AC-686B-4370-A979-2FD1D7288BDA"/>
+        <Bookmark BinderUUID="69822417-D015-4BDD-90BD-18AAA6198D15"/>
+    </ProjectBookmarks>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:24:39 +1000" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2024-11-17 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="3" Date="2024-11-16 14:21:42 +1000"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2024-11-16 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>3</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
+    <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
